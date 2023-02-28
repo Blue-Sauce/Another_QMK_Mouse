@@ -1,4 +1,4 @@
-Prototype based on the shell of a Rival 500       
+Prototype R-500       
 
 Top shell      
 left 2 buttons 5 pin flat FFC/FPC (only right 3 pins connected: b11,gnd,b12)      
@@ -10,3 +10,5 @@ Side buttons
 connector: gnd,7,9,6,4,8,5   looking at side board, pins on connector      
 
 encoder 3 pins l,m,r
+
+typ ldo https://www.distrelec.biz/en/ldo-voltage-regulator-5v-100ma-sot-23-texas-instruments-tps76925dbvt/p/17330558
