@@ -5,6 +5,7 @@ There are mice, trackballs and pointing devices using QMK but no mice I've seen 
 This mouse is inspired by several mice, including the SteelSeries Rival 500, a now discountued mouse featuring 6 side buttons and 4 extra top buttons, in addition to 3 standard mouse buttons and a tilt scroll wheel. https://steelseries.com/gaming-mice/rival-500            
 
 - Notable other mouse or pointing device projects         
+        
 https://github.com/ploopyco/mouse/         
 https://ploopy.co/product-category/mouse/        
 QMK mouse using PMW3360, atmega32u4, 2 side buttons, 3 extra top buttons, non-tilt optical scroll wheel, 4x rgb addressable leds SK6812 / WS2812B 5050 size, USB-C, 3.5 mm jack with i2c         
