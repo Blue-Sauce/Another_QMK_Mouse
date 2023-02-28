@@ -7,10 +7,10 @@ right button 2p
 5p connector: gnd, b12 t2, b11 t1, b13 t8, b10 (dpi) t9. Checked      
 
 Side buttons      
-7p connector: gnd,7,9,6,4,8,5   looking at side board, pins on connector      
+7p connector: gnd,7,9,6,4,8,5   looking at side board, pins on connector          
 
-Encoder
-3p l,m,r
+Encoder      
+3p l,m,r      
 
-PMW3360 daughter board
-9p connector:    Left to Right viewed from back
+PMW3360 daughter board      
+9p connector:    Left to Right viewed from back      
