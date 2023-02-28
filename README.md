@@ -11,7 +11,7 @@ QMK mouse using PMW3360, atmega32u4, 2 side buttons, 3 extra top buttons, non-ti
 
 - PixArt PMW3360 Optical Sensor breakout boards
 
-https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb 
+https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb        
 TXS0104 4-bit lvl shifter        
 Used in charybdis kb trackball https://bastardkb.com/charybdis/      
 
