@@ -1,6 +1,7 @@
 Prototype R-500     
-
-Using QMK firmware on a currently supported mcu (likely atmega32u4), at least intially.
+   
+Using QMK firmware on a currently supported mcu (likely atmega32u4), at least intially.     
+https://github.com/qmk/qmk_firmware/blob/master/docs/compatible_microcontrollers.md        
 
 Top shell      
 left 2 buttons 5p flat FFC/FPC, only right 3 pins connected: b11,gnd,b12     
