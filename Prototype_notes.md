@@ -1,4 +1,6 @@
-Prototype R-500       
+Prototype R-500     
+
+Using QMK firmware on a currently supported mcu (likely atmega32u4), at least intially.
 
 Top shell      
 left 2 buttons 5p flat FFC/FPC, only right 3 pins connected: b11,gnd,b12     
